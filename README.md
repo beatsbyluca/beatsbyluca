@@ -1,41 +1,117 @@
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=beatsbyluca&countColor=%234a12ba" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/beatsbyluca?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/beatsbyluca?color=4a12ba&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
+<div align="center">
 
-<p align="center"> 
-    <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=beatsbyluca&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
-</p>
+# 👋 Hey, I'm Beatsbyluca
+
+**Discord Bot Developer & Python Enthusiast**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatsbyluca)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 ```python
-from abc import ABCMeta, abstractmethod
-
-
-class Beatsbyluca(metaclass=ABCMeta):
+class Beatsbyluca:
+    def __init__(self):
+        self.name = "Beatsbyluca"
+        self.role = "Discord Bot Developer"
+        self.location = "Earth 🌍"
+        self.languages = ["Python", "JavaScript"]
+        self.interests = [
+            "Discord Bots",
+            "Server Management Tools",
+            "Automation",
+            "Open Source"
+        ]
     
-    @staticmethod
-    @abstractmethod
-    def contact():
-        discord = "beatsbyluca"
-        telegram = "@Beatsbyluca"
-        return discord, telegram
-
-class Attributes(Beatsbyluca):
-
-    @staticmethod
-    def life() -> tuple:
-        langs = ("German", "English", "Russian")
-
-        return langs
-
-    @staticmethod
-    def coding() -> tuple:
-        text_editor = ["vscode", "Pycharm"]
-        specialities = ["automation"]
-        langs = {
-            "pro": "python", 
-            "learning": "golang"
-        }
-        
-        return langs, specialities, text_editor
+    def code(self):
+        while True:
+            build_awesome_projects()
+            learn_new_tech()
+            contribute_to_community()
 ```
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔷 Featured Projects
+
+### [NEXUS](https://github.com/beatsbyluca/Nexus)
+🔷 Automatic Discord Bot for Server Management
+
+- Beautiful blue gradient terminal interface
+- 11 powerful commands
+- Highly configurable
+- Fast asynchronous operations
+
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
+![Python](https://img.shields.io/badge/python-3.9+-green.svg)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=beatsbyluca&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔷 Improving NEXUS
+- 🚀 Building new Discord bots
+- 📚 Learning new technologies
+- 💡 Contributing to open source
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatsbyluca)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🎵 Love music (hence the name!)
+- 🤖 Passionate about Discord bot development
+- 🔷 Creator of NEXUS
+- 🐍 Python enthusiast
+- 🌱 Always learning and growing
+
+---
+
+<div align="center">
+
+### ⭐ Star my repositories if you find them interesting!
+
+**Thanks for visiting! 👋**
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=beatsbyluca.beatsbyluca)
+
+</div>
