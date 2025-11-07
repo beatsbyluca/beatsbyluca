@@ -47,21 +47,6 @@ class Beatsbyluca:
 
 ---
 
-## 🔷 Featured Projects
-
-### [NEXUS](https://github.com/beatsbyluca/Nexus)
-🔷 Automatic Discord Bot for Server Management
-
-- Beautiful blue gradient terminal interface
-- 11 powerful commands
-- Highly configurable
-- Fast asynchronous operations
-
-![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9+-green.svg)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,7 +75,9 @@ class Beatsbyluca:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatsbyluca)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/227823673690554368)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beatsbylxca)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beatsbylxca)
 
 </div>
 
@@ -115,3 +102,4 @@ class Beatsbyluca:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=beatsbyluca.beatsbyluca)
 
 </div>
+
