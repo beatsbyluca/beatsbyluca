@@ -1,105 +1,96 @@
 <div align="center">
 
-# 👋 Hey, I'm Beatsbyluca
-
-**Discord Bot Developer & Python Enthusiast**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatsbyluca)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class Beatsbyluca:
-    def __init__(self):
-        self.name = "Beatsbyluca"
-        self.role = "Discord Bot Developer"
-        self.location = "Earth 🌍"
-        self.languages = ["Python", "JavaScript"]
-        self.interests = [
-            "Discord Bots",
-            "Server Management Tools",
-            "Automation",
-            "Open Source"
-        ]
-    
-    def code(self):
-        while True:
-            build_awesome_projects()
-            learn_new_tech()
-            contribute_to_community()
-```
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Py-Cord](https://img.shields.io/badge/Py--Cord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=beatsbyluca&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- 🔷 Improving NEXUS
-- 🚀 Building new Discord bots
-- 📚 Learning new technologies
-- 💡 Contributing to open source
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
+# 🌊 Beatsbyluca
+### Discord Bot Architect • Python Automator • Creative Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatsbyluca)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/227823673690554368)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beatsbylxca)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beatsbylxca)
 
+---
+
+> **"Transforming complex ideas into sleek, automated realities."**
+
+</div>
+
+## 🚀 About Me
+
+```python
+class Beatsbyluca:
+    """
+    Building the future, one automation at a time.
+    """
+    def __init__(self):
+        self.role = "Lead Discord Developer"
+        self.focus = ["Automation", "Safety Tools", "System Architecture"]
+        self.toolkit = ["Python", "Golang", "Playwright", "Docker"]
+        self.flagship = "NEXUS Core"
+
+    def current_status(self):
+        return {
+            "coding": "Optimizing Snapy Engine",
+            "learning": "Advanced Cloud Infrastructure",
+            "vibing": "Heavy Beats & Clean Code"
+        }
+```
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="left">
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python`, `Golang`, `JavaScript`, `HTML5`, `CSS3` |
+| **Frameworks** | `Py-Cord`, `Flask`, `Next.js`, `Playwright` |
+| **Tools** | `Docker`, `Git`, `Linux`, `PostgreSQL` |
+| **Specialty** | `Bot Security`, `Automation Engines`, `UI/UX for CLI` |
+
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 🔥 Top Projects
 
-- 🎵 Love music (hence the name!)
-- 🤖 Passionate about Discord bot development
-- 🔷 Creator of NEXUS
-- 🐍 Python enthusiast
-- 🌱 Always learning and growing
+### [👻 Snapy](https://github.com/beatsbyluca/snapy)
+*Next-gen Snapchat restoration engine with premium UI and multi-friend support.*
+
+### [🔷 NEXUS](https://github.com/beatsbyluca/nexus)
+*Advanced Discord management and security ecosystem.*
+
+---
+
+## 📊 Performance & Contributions
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=beatsbyluca&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💎 Fun Facts & Philosophy
+
+- 🐍 **Python Lover**: Writing clean, readable code is my obsession.
+- 🎵 **Beats**: I produce music when I'm not producing code.
+- 🤖 **Automation**: If I have to do it twice, I'll script it once.
+- 🌍 **Global**: Building tools used by communities worldwide.
 
 ---
 
 <div align="center">
 
-### ⭐ Star my repositories if you find them interesting!
+### ✨ Let's Build Something Awesome Together
 
-**Thanks for visiting! 👋**
+**[Contact me on Discord](https://discord.com/users/227823673690554368)**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=beatsbyluca.beatsbyluca)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=beatsbyluca.beatsbyluca&color=blueviolet)
 
 </div>
-
