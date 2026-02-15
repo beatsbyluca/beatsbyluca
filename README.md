@@ -62,21 +62,7 @@ class Beatsbyluca:
 
 ---
 
-## 📊 Performance & Contributions
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=beatsbyluca&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 💎 Fun Facts & Philosophy
+##  Fun Facts & Philosophy
 
 - 🐍 **Python Lover**: Writing clean, readable code is my obsession.
 - 🎵 **Beats**: I produce music when I'm not producing code.
