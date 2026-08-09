@@ -1,48 +1,71 @@
 <div align="center">
 
-# Luca
+# `beatsbyluca`
 
-**Discord Bot Architect · Python Automator · Creative Developer**
+### Building things. Breaking things. Learning things.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/beatsbyluca)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/227823673690554368)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/beatsbylxca)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/beatsbylxca)
+**Developer from Germany 🇩🇪**
 
 </div>
 
 ---
 
-```python
-role     = "Lead Discord Developer"
-focus    = ["Automation", "Safety Tools", "System Architecture"]
-stack    = ["Python", "Golang", "Playwright", "Docker"]
-flagship = "NEXUS Core"
-```
+### `> whoami`
+
+I'm **Luca**, a developer who enjoys building software, experimenting with new technologies and turning random ideas into actual projects.
+
+I mainly work with **Python, JavaScript and web technologies**, with a focus on backend systems, automation, Discord bots and web applications.
 
 ---
 
-### Projects
+### `> stack`
 
-| Project | Description |
-| :-- | :-- |
-| [Snapy](https://github.com/beatsbyluca/snapy) | Next-gen Snapchat restoration engine with premium UI |
-| [NEXUS](https://github.com/beatsbyluca/nexus) | Advanced Discord management & security ecosystem |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=9D4EDD)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=60A5FA)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge\&logo=node.js\&logoColor=22C55E)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=38BDF8)
+
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge\&logo=flask\&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge\&logo=mongodb\&logoColor=22C55E)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge\&logo=linux\&logoColor=FFFFFF)
+
+</div>
 
 ---
 
-### Stack
+### `> projects`
 
-`Python` `Golang` `JavaScript` `HTML5` `CSS3`  
-`Py-Cord` `Flask` `Next.js` `Playwright`  
-`Docker` `Git` `Linux` `PostgreSQL`
+<div align="center">
+
+<a href="https://github.com/beatsbyluca">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=beatsbyluca&repo=KryptoX-Selfbot&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=60A5FA" />
+</a>
+
+</div>
+
+---
+
+### `> github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=60A5FA&text_color=C9D1D9&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" height="165"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*If I have to do it twice, I'll script it once.*
+**Purple mind. Blue screens. Clean code.**
 
-**[Discord](https://discord.com/users/227823673690554368)**
+`beatsbyluca` · 2026
 
 </div>
