@@ -4,8 +4,6 @@
 
 </div>
 
-<h3 align="center">🟣 Purple mind. Clean code. Endless curiosity.</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Luca+%F0%9F%91%8B;Developer+from+Germany+%F0%9F%87%A9%F0%9F%87%AA;Python+%C2%B7+JavaScript+%C2%B7+Automation;Building+Discord+bots+%26+backend+tools&font=Fira%20Code&center=true&width=500&height=45&color=C77DFF&vCenter=true&size=22&pause=1500" />
 </p>
@@ -44,17 +42,11 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 
 ### `> projects`
 
-<p align="center">
-  <a href="https://github.com/beatsbyluca/Nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatsbyluca&repo=Nexus&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E6D5FF" />
-  </a>
-  <a href="https://github.com/beatsbyluca/Discord-Cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatsbyluca&repo=Discord-Cleaner&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E6D5FF" />
-  </a>
-  <a href="https://github.com/beatsbyluca/snapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatsbyluca&repo=snapy&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E6D5FF" />
-  </a>
-</p>
+| Repo | Beschreibung | Sprache |
+|---|---|---|
+| [**Nexus**](https://github.com/beatsbyluca/Nexus) | Automatic Discord Bot for Server Management | ![](https://img.shields.io/badge/-Python-6A0DAD?style=flat-square&logo=python&logoColor=E6D5FF) |
+| [**Discord-Cleaner**](https://github.com/beatsbyluca/Discord-Cleaner) | Minimal Discord message cleaner for personal use | ![](https://img.shields.io/badge/-Python-6A0DAD?style=flat-square&logo=python&logoColor=E6D5FF) |
+| [**snapy**](https://github.com/beatsbyluca/snapy) | Snapchat Streak Restorer Tool | ![](https://img.shields.io/badge/-Python-6A0DAD?style=flat-square&logo=python&logoColor=E6D5FF) |
 
 ---
 
@@ -76,8 +68,6 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 ---
 
 <div align="center">
-
-**Purple mind. Blue screens. Clean code.**
 
 `beatsbyluca` · 2026
 
