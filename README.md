@@ -10,7 +10,7 @@
 
 ---
 
-### `> whoami`
+<p align="center"><img src="https://img.shields.io/badge/-WHOAMI-1a0033?style=for-the-badge&labelColor=1a0033&color=6A0DAD" /></p>
 
 I'm **Luca**, a developer who loves building software, experimenting with new tech and turning random ideas into real projects. I mainly work with **Python, JavaScript and web technologies**, with a focus on **backend systems, automation and Discord bots**.
 
@@ -21,7 +21,7 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 
 ---
 
-### `> stack`
+<p align="center"><img src="https://img.shields.io/badge/-STACK-1a0033?style=for-the-badge&labelColor=1a0033&color=6A0DAD" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=E6D5FF" />
@@ -40,7 +40,9 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 
 ---
 
-### `> projects`
+<p align="center"><img src="https://img.shields.io/badge/-PROJECTS-1a0033?style=for-the-badge&labelColor=1a0033&color=6A0DAD" /></p>
+
+<div align="center">
 
 | Repo | Beschreibung | Sprache |
 |---|---|---|
@@ -48,13 +50,15 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 | [**Discord-Cleaner**](https://github.com/beatsbyluca/Discord-Cleaner) | Minimal Discord message cleaner for personal use | ![](https://img.shields.io/badge/-Python-6A0DAD?style=flat-square&logo=python&logoColor=E6D5FF) |
 | [**snapy**](https://github.com/beatsbyluca/snapy) | Snapchat Streak Restorer Tool | ![](https://img.shields.io/badge/-Python-6A0DAD?style=flat-square&logo=python&logoColor=E6D5FF) |
 
+</div>
+
 ---
 
-### `> stats`
+<p align="center"><img src="https://img.shields.io/badge/-STATS-1a0033?style=for-the-badge&labelColor=1a0033&color=6A0DAD" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beatsbyluca&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E6D5FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6D5FF" width="35%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=beatsbyluca&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E6D5FF" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6D5FF" width="35%" />
 </p>
 
 <p align="center">
