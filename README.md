@@ -50,14 +50,6 @@ I'm **Luca**, a developer who loves building software, experimenting with new te
 
 ---
 
-### `> discord`
-
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/949699093926645850?theme=dark&bg=0D1117&border=6A0DAD&idle=9D4EDD&dnd=C77DFF&animated=true&hideDiscrim=true" />
-</p>
-
----
-
 ### `> stats`
 
 <p align="center">
