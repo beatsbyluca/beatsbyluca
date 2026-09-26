@@ -20,7 +20,7 @@ Hey, I'm Luca, 18, from Germany. I mostly build stuff with Python.
 
 Currently working on **Streamy**, a Discord bot built with raw WebSockets.
 
-📫 [beatsbyluca.com](https://beatsbyluca.com) · [Telegram](https://t.me/beatsbyluca)
+📫 [beatsbyluca.com](https://beatsbyluca.com) · [Telegram](https://t.me/lxcalt)
 
 </div>
 
