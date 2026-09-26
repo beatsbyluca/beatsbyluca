@@ -10,17 +10,25 @@
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/-WHOAMI-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-WHOAMI-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
+</p>
 
-Hey, I'm Luca, 18, from Germany. I write Python, mostly for Discord bots and small tools that automate stuff I'm too lazy to do by hand.
+<div align="center">
 
-Right now I'm working on **Streamy**, a bot that keeps a 24/7 "streaming" status alive on Discord by talking straight to the Gateway. No third-party Discord library, just raw websockets and way too much debugging.
+Hey, I'm Luca, 18, from Germany. I mostly build stuff with Python.
+
+Currently working on **Streamy**, a Discord bot built with raw WebSockets.
 
 📫 [beatsbyluca.com](https://beatsbyluca.com) · [Telegram](https://t.me/beatsbyluca)
 
+</div>
+
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/-STACK-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-STACK-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
@@ -28,6 +36,7 @@ Right now I'm working on **Streamy**, a bot that keeps a 24/7 "streaming" status
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=FFFFFF" />
@@ -36,30 +45,39 @@ Right now I'm working on **Streamy**, a bot that keeps a 24/7 "streaming" status
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
+</p>
 
 <div align="center">
 
-| Repo | Beschreibung | Sprache |
+| Repo | Description | Language |
 |---|---|---|
-| [**Streamy**](https://github.com/beatsbyluca/Streamy) | Keeps a 24/7 "Streaming" status alive on Discord, direct Gateway connection | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
-| [**Discord-Cleaner**](https://github.com/beatsbyluca/Discord-Cleaner) | Minimal Discord message cleaner for personal use | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
-| [**snapy**](https://github.com/beatsbyluca/snapy) | Snapchat Streak Restorer Tool | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
+| [**Streamy**](https://github.com/beatsbyluca/Streamy) | Discord streaming status | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
+| [**Discord-Cleaner**](https://github.com/beatsbyluca/Discord-Cleaner) | Discord message cleaner | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
+| [**snapy**](https://github.com/beatsbyluca/snapy) | Snapchat streak tool | ![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) |
 
 </div>
 
 ---
 
-<p align="center"><img src="https://img.shields.io/badge/-STATS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></p>
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=beatsbyluca&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6E6E6" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E6E6E6" width="35%" />
+  <img src="https://img.shields.io/badge/-STATS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatsbyluca&theme=dark&hide_border=true&background=000000&stroke=1a1a1a&ring=FFFFFF&fire=FFFFFF&currStreakLabel=E6E6E6" />
-</p>
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=beatsbyluca&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6E6E6" width="500" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatsbyluca&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E6E6E6" width="500" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beatsbyluca&theme=dark&hide_border=true&background=000000&stroke=1a1a1a&ring=FFFFFF&fire=FFFFFF&currStreakLabel=E6E6E6" width="500" />
+
+</div>
 
 ---
 
